@@ -1,0 +1,72 @@
+.myheading{
+    color: red;
+    font-size: 40px;
+    background-color: black;
+}
+
+#three{
+    color: blue;
+}
+
+.first{
+    background-color: antiquewhite;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+.test{
+    display: flex;
+    padding: 20px;
+    background-color: beige;
+    margin: 35px;
+}
+
+.paragraphone{
+    margin-left: 20px;
+}
+
+.main{
+    display: flex;
+}
+
+.paragraph1{
+    background-color: red;
+}
+
+.paragraph2{
+    background-color: green;
+}
+
+.paragraph3{
+    background-color: coral;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
